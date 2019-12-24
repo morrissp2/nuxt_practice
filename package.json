@@ -1,0 +1,25 @@
+{
+  "name": "nuxt_practice",
+  "version": "1.0.0",
+  "description": "My sensational Nuxt.js project",
+  "author": "",
+  "private": true,
+  "config": {
+    "nuxt": {
+      "host": "0.0.0.0",
+      "port": "8081"
+    }
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bootstrap-vue": "^2.1.0",
+    "iview": "^3.5.4",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,6 @@
+.prefix-enter-active, .prefix-leave-active {
+    transition: opacity .5s;
+}
+.prefix-enter, .prefix-leave-to {
+    opacity: 0;
+}
